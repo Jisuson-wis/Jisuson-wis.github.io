@@ -18,7 +18,7 @@ sidebar:
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Republic of Korea
   website: https://Jisuson-wis.github.io # Include the full website URL, including "http://" or "https://".
-  linkedin: Jisu Son
+  linkedin: jisuson
   xing: 
   github: 
   telegram: # add your nickname without '@' sign
@@ -96,6 +96,26 @@ experiences:
     details: |
       Worked as a staff nurse in the ward, providing care for patients primarily in the departments of Otolaryngology, Ophthalmology, Neurosurgery, Obstetrics and Gynecology, Anesthesiology and Pain Medicine, Urology, and Plastic Surgery. 
       Responsible for delivering high-quality nursing care, monitoring patient conditions, and assisting with various medical procedures tailored to the specific needs of patients across these specialties.
+
+publications:
+  title: Publications
+  intro: |
+    
+  papers:
+  - title: #The Art of Computer Programming
+    link: #"#"
+    authors: #Donald E. Knuth
+    conference: #Addison-Wesley, 1968
+
+  - title: #"Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    link: #"#"
+    authors: #Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    conference: #"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  - title: # A syntax directed compiler for Algol 60
+    link: #"#"
+    authors: #dgar T. Irons
+    conference: #"Comm. ACM 4 (1961), 51–55"
   
 certifications:
   title: Certifications
@@ -113,7 +133,7 @@ certifications:
 projects:
   title: Projects
   intro: >
-    #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  
   assignments:
   - title: #Velocity
     link: #"#hook"
@@ -127,9 +147,9 @@ projects:
     link: #"#"
     tagline: #"A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
+  - title: #Atom
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
   - title: #Delta
     link: #"#"
@@ -152,25 +172,7 @@ projects:
 #    link: "#"
 #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    
-  papers:
-  - title: #The Art of Computer Programming
-    link: #"#"
-    authors: #Donald E. Knuth
-    conference: #Addison-Wesley, 1968
 
-  - title: #"Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: #"#"
-    authors: #Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: #"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: # A syntax directed compiler for Algol 60
-    link: #"#"
-    authors: #dgar T. Irons
-    conference: #"Comm. ACM 4 (1961), 51–55"
 
 #recommendations:
 #  title: Recommendations
